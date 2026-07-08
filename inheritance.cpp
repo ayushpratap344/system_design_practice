@@ -2,7 +2,6 @@
 #include <string>
 
 using namespace std;
-
 /*
 We know that real world Objects show inheritance relationship where we
 have parent object and child object. child object have all the characters
